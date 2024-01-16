@@ -1,5 +1,6 @@
 # Bank-Churn-Prediction
-Context:
+##Context:
+
 Businesses like banks which provide service have to worry about problem of 'Customer Churn' i.e. customers leaving and joining another service provider. It is important to understand which aspects of the service influence a customer's decision in this regard. Management can concentrate efforts on improvement of service, keeping in mind these priorities.
 
 Objective:
